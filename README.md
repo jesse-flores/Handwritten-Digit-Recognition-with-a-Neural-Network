@@ -188,10 +188,12 @@ size_t batch_size = 32;
     Training complete.
     Model Saved!
     PS C:\handwritting_detection\>
-### GUI
+### Demo
+Training:
+![Training](hand_written_digit_demo_training.gif)
 
-Visual to Come Soon
-
+GUI:
+![GUI Usage](hand_written_digit_demo-gui.gif)
 
 ## Dependencies
 
