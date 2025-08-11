@@ -9,6 +9,10 @@ This project is a C++ application that uses a custom-built neural network to rec
 - **Model Training:** Includes a `train` executable to build and save the neural network model using the MNIST dataset.
 - **Flexible:** Built with standard C++ and SFML, making it portable.
 
+## Next Steps
+
+As can be seen and tested, this model is not accurate. Data is overfitting and the model can't fully generalize yet.
+
 ## Project Structure
 
     root/
@@ -201,6 +205,5 @@ GUI:
 - SFML >= 3.0.0 (Static Build)
 
 ## License
-
 
 This project is open source and available under the [MIT License](LICENSE).
